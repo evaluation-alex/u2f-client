@@ -24,7 +24,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "node-hid": "^0.5.4",
+    "node-hid": "",
     "async": "",
     "psl": "",
     "request": ""
